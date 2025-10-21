@@ -1,1 +1,7 @@
-chimera-475519-de8608512bf5
+#Python cache
+
+__pycache__/
+*.pyc
+
+# Credentials
+*.json
