@@ -1,6 +1,6 @@
 # Chimera Sentinel: AI Threat & Countermeasure Analysis
 
-An AI-powered system that scans biomedical research to identify emerging pathogen threats, suggest countermeasures, and provide supporting scientific references. Built for the Google Cloud AI Accelerate Hackathon (Oct 2025).
+An AI-powered system that scans biomedical research to identify emerging pathogen threats, suggest countermeasures, and provide supporting scientific references.
 
 ## Problem Solved
 Keeping up with the vast amount of biomedical research to identify potential pandemic threats is a monumental task. Manually searching, reading, and synthesizing information across thousands of papers is slow and risks missing critical connections.
