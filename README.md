@@ -1,4 +1,4 @@
-# Chimera Sentinel: AI Threat & Countermeasure Analysis
+# **Chimera Sentinel: AI Threat & Countermeasure Analysis**
 
 An AI-powered system that scans biomedical research to identify emerging pathogen threats, suggest countermeasures, and provide supporting scientific references.
 
@@ -37,7 +37,16 @@ Chimera Sentinel automates this process using a multi-stage AI pipeline:
 8.  Open the local URL provided by Streamlit in your browser.
 
 ## Demo Video
-* 
+* Watch our **short video demonstration** showcasing Chimera Sentinel analyzing a potential threat, generating countermeasures, and providing references: [https://www.youtube.com/watch?v=c_SwUdnzrBY](https://www.youtube.com/watch?v=c_SwUdnzrBY)
+ 
 
-## License
+## Future Work
+* Integrate real-time monitoring of news feeds or public health alerts for earlier signal detection.
+* Develop more sophisticated visualization for identified threats and countermeasures.
+
+* ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
