@@ -19,7 +19,7 @@ Chimera Sentinel automates this process using a multi-stage AI pipeline:
 * Web-Based Interface (Streamlit)
 
 ## Tech Stack
-* **AI:** Google Cloud Vertex AI (Gemini 1.0 Pro)
+* **AI:** Google Cloud Vertex AI (Gemini 2.5 Pro)
 * **Search:** Elasticsearch
 * **Backend:** Python, Flask
 * **Frontend:** Streamlit
